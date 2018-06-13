@@ -1,2 +1,2 @@
 # javigarri-jga.github.io
-Página para curso
+Sitio web para ejercicio del curso
